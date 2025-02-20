@@ -68,5 +68,5 @@ LinkedIn: https\://www\.linkedin.com/in/shreyassingh7/
 
 ---
 
-**Note:** This project was built as part of an **internship task** at **Redcrix Technologies Pvt. Ltd.**
+**Note:** As this project was built as part of an **internship task** at **Redcrix Technologies Pvt. Ltd.** You might encounter **redcrix-alert** as the project name in the package.json file,
 
